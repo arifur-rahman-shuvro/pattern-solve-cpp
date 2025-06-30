@@ -20,19 +20,15 @@ Patterns include **Triangle, Pyramids, Diamonds, Butterflies, Alphabets and more
 ## Folder Structure
 
 pattern-solve-cpp/
-├── triangle/
-│ ├── left_aligned_triangle/
-│ │ ├── code.cpp
-│ │ ├── code_image.png
-│ │ ├── output_image.png
-│ │ └── demo.gif
-│ ├── right_aligned_triangle/
-│ └── ...
-├── pyramid/
-├── diamond/
-├── advanced/
-├── LICENSE
-└── README.md
+    -triangle/
+        -code.cpp
+        -image.png
+        -GIF
+        -README.md
+        ....
+    -pyramid/....
+    -LICENSE
+    -README.md
 
 ## How to compile and run
 
