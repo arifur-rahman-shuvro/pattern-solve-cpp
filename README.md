@@ -43,7 +43,7 @@ To compile and run any program follow these steps:
 
 Contributions are welcomed! If you want to add a new pattern or improve existing ones feel free to contribute.
 
-## License 
+## License cl
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
