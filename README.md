@@ -28,18 +28,25 @@ pattern-solve-cpp/
 To compile and run any program follow these steps:
    
     Step 1: Clone the Git repository
+
     ```bash
     git clone [repo name] 
     ```
+
     Step 2:
+    
     ```bash 
-    cd pattern-solve-cpp 
+    cd [folder name]
     ```
+
     Step 3:
+
     ```bash 
     g++ code.cpp -o run 
     ```
+
     Step 4:
+
     ```bash
     ./run 
     ```
