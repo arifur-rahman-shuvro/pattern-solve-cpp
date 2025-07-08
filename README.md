@@ -33,11 +33,13 @@ pattern-solve-cpp/
 ## How to compile and run
 
 To compile and run any program follow these steps:
+   ```
     **Step 1:** Clone the Git repository
     **Step 2:** cd pattern-solve-cpp
     **Step 3:** cd ..../... (Path of folder)
     **Step 4:** g++ code.cpp -o run
     **Step 5:** ./run
+    ```
 
 ## Contribution
 
