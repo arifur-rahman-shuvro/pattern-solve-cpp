@@ -27,29 +27,29 @@ pattern-solve-cpp/
 
 To compile and run any program follow these steps:
    
-    Step 1: Clone the Git repository
+Step 1: Clone the Git repository
 
-    ```bash
-    git clone [repo name] 
-    ```
+```bash
+ git clone [repo name] 
+ ```
 
-    Step 2:
+ Step 2:
     
-    ```bash 
-    cd [folder name]
-    ```
+ ```bash 
+ cd [folder name]
+ ```
 
-    Step 3:
+ Step 3:
 
-    ```bash 
-    g++ code.cpp -o run 
-    ```
+ ```bash 
+ g++ code.cpp -o run 
+ ```
 
-    Step 4:
+ Step 4:
 
-    ```bash
-    ./run 
-    ```
+ ```bash
+./run 
+ ```
     
 
 ## Contribution
