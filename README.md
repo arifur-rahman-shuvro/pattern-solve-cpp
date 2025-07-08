@@ -5,12 +5,7 @@ This repo is designed for beginners and intermediate learners to practice loops,
 
 ## Project overview
 
-This repository contains various pattern problems implemented in C++. Each patterns come with:
-
-    -Clean code
-    -Code screenshot for quick reference
-    -Live demo GIFs showing program execution
-    -Organized folder structure for easy navigation
+This repository contains various pattern problems implemented in C++. Each patterns come with clean code
 
 ## Patterns
 
@@ -19,27 +14,30 @@ Patterns include **Triangle, Pyramids, Diamonds, Butterflies, Alphabets and more
 
 ## Folder Structure
 
+```
 pattern-solve-cpp/
-    -triangle/
-        -code.cpp
-        -image.png
-        -GIF
-        -README.md
-        ....
-    -pyramid/....
+    -code.cpp
+    -image.png
+    -GIF
+    -README.md
+    ....
     -LICENSE
     -README.md
+    ```
 
 ## How to compile and run
 
 To compile and run any program follow these steps:
-   ```
+   
     **Step 1:** Clone the Git repository
-    **Step 2:** cd pattern-solve-cpp
-    **Step 3:** cd ..../... (Path of folder)
-    **Step 4:** g++ code.cpp -o run
-    **Step 5:** ./run
-    ```
+    ``` git clone [repo name] ''
+    **Step 2:**
+    ``` cd pattern-solve-cpp ```
+    **Step 3:**
+    ``` g++ code.cpp -o run ```
+    **Step 4:**
+    ``` ./run ```
+    
 
 ## Contribution
 
@@ -53,7 +51,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 Built by **ARIFUR RAHMAN**
 
-Follow me on GitHub : github.com/arifur-rahman-shuvro
+Follow me on GitHub : arifur-rahman-shuvro (https://github.com/arifur-rahman-shuvro)
 
 Thanks for visiting.
 
