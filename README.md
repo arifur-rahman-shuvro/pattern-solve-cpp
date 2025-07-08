@@ -17,8 +17,6 @@ Patterns include **Triangle, Pyramids, Diamonds, Butterflies, Alphabets and more
 ```
 pattern-solve-cpp/
     -code.cpp
-    -image.png
-    -GIF
     -README.md
     ....
     -LICENSE
@@ -30,13 +28,21 @@ pattern-solve-cpp/
 To compile and run any program follow these steps:
    
     **Step 1:** Clone the Git repository
-        ``` git clone [repo name] ```
+        ```bash
+            git clone [repo name] 
+        ```
     **Step 2:**
-        ``` cd pattern-solve-cpp ```
+        ```bash 
+            cd pattern-solve-cpp 
+        ```
     **Step 3:**
-        ``` g++ code.cpp -o run ```
+        ```bash 
+            g++ code.cpp -o run 
+        ```
     **Step 4:**
-        ``` ./run ```
+        ```bash
+            ./run 
+        ```
     
 
 ## Contribution
